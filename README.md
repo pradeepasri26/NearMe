@@ -59,13 +59,15 @@ Execute the programs and publish them.
         y Co-ordinate <input type="text" name="" id="text2" style="font-size: medium;">
     </body>            
 </html>
+
+
 ```
 
 ## OUTPUT
 
 ![image](https://github.com/pradeepasri26/NearMe/assets/131433142/dfc1dfaf-d81a-4bc6-bfe2-ceb60fdcc8d9)
 
-![image](https://github.com/pradeepasri26/NearMe/assets/131433142/9efd21d6-bc96-442a-97c2-87d8fc49bc73)
+![image](https://github.com/pradeepasri26/NearMe/assets/131433142/e8611dfc-ed71-4228-801b-43f60c78c2c2)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
